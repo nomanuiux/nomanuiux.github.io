@@ -1,1 +1,1 @@
-## Hi there, I am Abdullah Al Noman! 👋
+<!-- ## Hi there, I am Abdullah Al Noman! 👋 -->
